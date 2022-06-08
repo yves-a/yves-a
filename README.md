@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yves Alikalfic
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning Java, and looking to make more personal projects
+- 🌱 I’m currently learning Full Stack Web Development, and looking to make more personal projects
 - 💞️ My current working on building a personal portfolio website
 - 📫 Reach me through email yalikalfic@yahoo.com | [LinkedIn](https://www.linkedin.com/in/yves-alikalfic-621b45220/)
 
