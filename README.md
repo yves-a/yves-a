@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Structures, C++, C#**
 
-- 👨‍💻 All of my projects are available at [yves-a.herokuapp.com/](yves-a.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [yves-a.herokuapp.com/](https://yves-a.herokuapp.com/)
 
 - 💬 Ask me about **React, React Native, Python**
 
