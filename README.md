@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yves-a&label=Profile%20views&color=0e75b6&style=flat" alt="yves-a" /> </p>
 
-- 🔭 I’m currently working on **Gift recommendation mobile app**
+- 🔭 I’m currently working on **building mobile apps**
 
-- 🌱 I’m currently learning **Data Structures, C++, C#**
+- 🌱 I’m currently learning **Swift#**
 
 - 👨‍💻 All of my projects are available at [yves-a.herokuapp.com/](https://yves-a.herokuapp.com/)
 
-- 💬 Ask me about **React, React Native, Python**
+- 💬 Ask me about **React, TypeScript, Automation**
 
 - 📫 How to reach me **yalikalfic@yahoo.com**
 
