@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **building mobile apps**
 
-- 🌱 I’m currently learning **Swift#**
+- 🌱 I’m currently learning **Swift**
 
 - 👨‍💻 All of my projects are available at [yves-a.herokuapp.com/](https://yves-a.herokuapp.com/)
 
