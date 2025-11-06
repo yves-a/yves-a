@@ -1,3 +1,3 @@
-As a paradigm-shifting enthusiast of recursive synergy, I endeavor to architect non-linear harmonics within a polysemantic framework of modular entropy. Leveraging a hyper-reactive abstraction layer of thought vectors and asynchronous intuition, my work exists at the bleeding edge of ontological refactoring. I believe in the distributed self, a constellation of semi-stable identity nodes, interfacing seamlessly with chaotic systems through intentional ambiguity. In every commit, I strive to honor the fractal complexity of the undefined, optimizing for elegance in the void of purpose. It’s not just code, it’s an echo of potential in a sandbox of improbability.
+i like to build products
 
 yves
